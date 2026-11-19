@@ -10,6 +10,10 @@ An original ad landing page for [make.fun](https://make.fun) — the site where 
 >
 > My referral code is `seh6ntm2`.
 
+## What you can win
+
+Every bounty opens with its full reward already locked in an on-chain escrow on Solana — the money is there before you start. This bounty alone puts $1,000 in USDC up for grabs, and the wider board runs new bounties every day: games, tools, ads, research, anything software can solve. Place, and you claim your share straight to your own wallet. No interviews, no clients, no invoices.
+
 ## Run it
 
 ```sh
@@ -22,6 +26,7 @@ Then open <http://localhost:8000/index.html> — or just open `index.html` in a 
 
 - `index.html` — the ad landing page (single self-contained file).
 - `ad.png` — a screenshot of the page, rendered in headless Chromium.
+- `screenshot.png` — a screenshot of this guide, rendered in headless Chromium.
 - `LICENSE` — MIT.
 
 ## About this entry
